@@ -4,24 +4,28 @@
 .contenedor-productos {
   background-color: black;
 }
-.contenedor-productos.contenedor-productos__titulo {
+.contenedor-productos__titulo {
   color: rgb(199, 125, 255);
 }
 
-main {
-  background-color: black;
+.card-header {
+  color: rgb(157, 78, 221);
 }
 
-footer {
-  background-color: black;
+.card-text {
+  color: rgb(123, 44, 191);
 }
-
-.tarjeta-titulo {
-  color: rgb(199, 125, 255);
+.card-text_precio {
+  color: rgb(90, 24, 154);
 }
 
 h1 {
   font: "Anybody", "cursive", "Dongle", sans-serif, "Fauna One", serif;
+}
+
+/* Encabezado, barra de navegación: Logo de la pag */
+.navbar-img {
+  width: 70%;
 }
 
 a {
@@ -39,6 +43,29 @@ h2 {
 
 p {
   font-size: 1rem;
+}
+
+main {
+  background-color: black;
+}
+
+footer {
+  background-color: black;
+}
+
+.main {
+  background-color: black;
+}
+
+.contenedor-portada_titulo {
+  color: rgb(199, 125, 255);
+}
+
+.contfooter {
+  background-color: black;
+}
+.contfooter.contacto__titulo {
+  color: rgb(199, 125, 255);
 }
 
 /*# sourceMappingURL=bootstrap.css.map */

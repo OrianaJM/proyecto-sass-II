@@ -1,17 +1,22 @@
 /* lo nuevo */
 .contenedor-productos {
     background-color: $colorbg;
-    &.contenedor-productos__titulo {
+    &__titulo {
         color: $color-uno;
     }
     
 }
 
-.tarjeta-titulo{
-    color: $color-uno;
+.card-header{
+    color: $color-dos;
 
 }
-
+.card-text {
+    color: $color-tres;
+    &_precio {
+        color: $color-cuatro;
+    }
+}
 h1 {
     font: $font-family;
 }
