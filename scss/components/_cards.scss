@@ -1,0 +1,17 @@
+/* lo nuevo */
+.contenedor-productos {
+    background-color: $colorbg;
+    &.contenedor-productos__titulo {
+        color: $color-uno;
+    }
+    
+}
+
+.tarjeta-titulo{
+    color: $color-uno;
+
+}
+
+h1 {
+    font: $font-family;
+}

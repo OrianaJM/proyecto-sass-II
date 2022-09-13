@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* lo nuevo */
+@import url("https://fonts.googleapis.com/css2?family=Anybody:wght@100;200&family=Dongle:wght@300&family=Fauna+One&display=swap");
+.contenedor-productos {
+  background-color: black;
+}
+.contenedor-productos.contenedor-productos__titulo {
+  color: rgb(199, 125, 255);
+}
+
+main {
+  background-color: black;
+}
+
+footer {
+  background-color: black;
+}
+
+.tarjeta-titulo {
+  color: rgb(199, 125, 255);
+}
+
+h1 {
+  font: "Anybody", "cursive", "Dongle", sans-serif, "Fauna One", serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* MEDIDAS TIPOGRÁFICAS */
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1rem;
+}
+
+/*# sourceMappingURL=bootstrap.css.map */
