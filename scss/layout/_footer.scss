@@ -1,6 +1,14 @@
-.contfooter{
+.contfooter {
     background-color: $colorbg;
-    &.contacto__titulo {
-        color: $color-uno;
+    & a {
+        color: white;
+        &:hover {
+            color: $color-cuatro;
+        }
     }
+    
+}
+
+.contacto__titulo {
+    color: $color-uno;
 }

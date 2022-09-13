@@ -49,22 +49,40 @@ main {
   background-color: black;
 }
 
-footer {
-  background-color: black;
-}
-
-.main {
-  background-color: black;
-}
-
-.contenedor-portada_titulo {
+.contenedor-portada__titulo {
   color: rgb(199, 125, 255);
+}
+
+.sobre-red__titulo {
+  color: rgb(199, 125, 255);
+}
+
+.unirse-red__titulo {
+  color: rgb(199, 125, 255);
+}
+.unirse-red__sub {
+  color: rgb(157, 78, 221);
+}
+
+.seccion-opiniones__titulo {
+  color: rgb(199, 125, 255);
+}
+
+.opiniones-sub {
+  color: rgb(157, 78, 221);
 }
 
 .contfooter {
   background-color: black;
 }
-.contfooter.contacto__titulo {
+.contfooter a {
+  color: white;
+}
+.contfooter a:hover {
+  color: rgb(90, 24, 154);
+}
+
+.contacto__titulo {
   color: rgb(199, 125, 255);
 }
 
