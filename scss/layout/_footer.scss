@@ -2,6 +2,7 @@
     background-color: $colorbg;
     & a {
         color: white;
+        text-decoration: none;
         &:hover {
             color: $color-cuatro;
         }

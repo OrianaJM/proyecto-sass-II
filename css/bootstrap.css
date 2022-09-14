@@ -8,7 +8,7 @@
   color: rgb(199, 125, 255);
 }
 
-.card-header {
+.card-title {
   color: rgb(157, 78, 221);
 }
 
@@ -77,12 +77,29 @@ main {
 }
 .contfooter a {
   color: white;
+  text-decoration: none;
 }
 .contfooter a:hover {
   color: rgb(90, 24, 154);
 }
 
 .contacto__titulo {
+  color: rgb(199, 125, 255);
+}
+
+.cards-accesorios__titulo {
+  color: rgb(199, 125, 255);
+}
+
+.cards-man__titulo {
+  color: rgb(199, 125, 255);
+}
+
+.cards-new__titulo {
+  color: rgb(199, 125, 255);
+}
+
+.cards-woman__titulo {
   color: rgb(199, 125, 255);
 }
 
